@@ -1,0 +1,2 @@
+1. Program must close Windows 7 crash window when LEDStudio crashes.
+2. Program must start new LEDStudio instance after its crash.
